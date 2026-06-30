@@ -1,0 +1,225 @@
+canonical_identifier: bkk:krp/KR5b0082/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5b0082/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 洞玄靈寶自然九天生神章經註
+  date: '2015-08-28 23:48:59.360110'
+  source:
+    repository: kanripo
+    path: KR5b0082
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0082_000-CK-KZ-jye.yaml, hash: 'sha256:87401d7b8c48236bed3ab46c9df682d7cc7c39c7181999cc7f0d1ad4385614c5'}
+  - {seq: 1, filename: KR5b0082_001-CK-KZ-jye.yaml, hash: 'sha256:f1d162b3c500a1213d449cd181e718af68ef23c8365a4aefa3b0dda74e0de1f7'}
+  - {seq: 2, filename: KR5b0082_002-CK-KZ-jye.yaml, hash: 'sha256:46e073a5ea333b08636dd23346fa020be839f0353bf39e90cfeeb3b2ecd64207'}
+  - {seq: 3, filename: KR5b0082_003-CK-KZ-jye.yaml, hash: 'sha256:42e3248145e904710933b0d78b3b60679adbf9a38a4dadf29766e771f3e91383'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0082_000-CK-KZ-jye.markers.yaml, hash: 'sha256:ce848052f6923020e806d43966b582c2d554a114b2e22810d7558423c4ff4f23'}
+  - {seq: 1, role: markers, filename: assets/KR5b0082_001-CK-KZ-jye.markers.yaml, hash: 'sha256:806903406788842f99678263a0831b20126673b9f58eda1ec7a9725c308021df'}
+  - {seq: 2, role: markers, filename: assets/KR5b0082_002-CK-KZ-jye.markers.yaml, hash: 'sha256:9efb76f0e7eceabdb5cbcd9f68f14b002dfc314633c734b5509c9afdf4d3a910'}
+  - {seq: 3, role: markers, filename: assets/KR5b0082_003-CK-KZ-jye.markers.yaml, hash: 'sha256:746f7c4ba515ced0ea46b19b37b7a0eeb3245ea5dd29b8d25751bbfc3919ca26'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0082_CK-KZ-jye_000-h1
+    span:
+    - body
+    - 0
+    - 363
+  label: 九天生神玉章經注序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5b0082_CK-KZ-jye_001-h1
+    span:
+    - body
+    - 4513
+    - 4607
+  label: 一過徹天胞原宣通
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5b0082_CK-KZ-jye_001-h2
+    span:
+    - body
+    - 4607
+    - 4664
+  label: 二過響地胎結解根
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5b0082_CK-KZ-jye_001-h3
+    span:
+    - body
+    - 4664
+    - 4719
+  label: 三過神禮魂門鍊仙
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5b0082_CK-KZ-jye_001-h4
+    span:
+    - body
+    - 4719
+    - 4826
+  label: 四過天王降仙魄戸閉關
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5b0082_CK-KZ-jye_001-h5
+    span:
+    - body
+    - 4826
+    - 4970
+  label: 五過五帝朝眞臟腑淸涼
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5b0082_CK-KZ-jye_001-h6
+    span:
+    - body
+    - 4970
+    - 5111
+  label: 六過魔王伏諾胃管生津
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5b0082_CK-KZ-jye_001-h7
+    span:
+    - body
+    - 5111
+    - 5195
+  label: 七過星宿朗明孔竅開聰
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5b0082_CK-KZ-jye_001-h8
+    span:
+    - body
+    - 5195
+    - 6086
+  label: 八過幽夜顯光三部八景整具形神
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5b0082_CK-KZ_02p016a
+    span:
+    - body
+    - 0
+    - 3745
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5b0082_CK-KZ-jye_003-h1
+    span:
+    - body
+    - 4
+    - 1164
+  label: 鬱單无量天生神章第一　　天炁蒼色
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5b0082_CK-KZ-jye_003-h2
+    span:
+    - body
+    - 1164
+    - 1997
+  label: 上上禪善无量夀天生神章第二　　天炁赤色¶<md:KR5b0082_HFL_003-005b>
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5b0082_CK-KZ-jye_003-h3
+    span:
+    - body
+    - 1997
+    - 2890
+  label: 梵監須延天生神章第三　　天炁靑色
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5b0082_CK-KZ-jye_003-h4
+    span:
+    - body
+    - 2890
+    - 3544
+  label: 寂然兜術天生神章第四¶　　天炁綠色
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5b0082_CK-KZ-jye_003-h5
+    span:
+    - body
+    - 3544
+    - 4496
+  label: 波羅泥宻不驕樂天生神章第五　　天炁黃色¶¶¶¶¶<md:KR5b0082_HFL_003-015a>
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5b0082_CK-KZ-jye_003-h6
+    span:
+    - body
+    - 4496
+    - 5274
+  label: 洞玄化應聲天生神章第六¶　　天炁白色¶¶<md:KR5b0082_HFL_003-018b>
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5b0082_CK-KZ-jye_003-h7
+    span:
+    - body
+    - 5274
+    - 6018
+  label: 靈化梵輔天生神章第七　　天炁紫色
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5b0082_CK-KZ-jye_003-h8
+    span:
+    - body
+    - 6018
+    - 6637
+  label: 高虛淸明天生神章第八　　天炁碧色¶<md:KR5b0082_HFL_003-024b>
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5b0082_CK-KZ-jye_003-h9
+    span:
+    - body
+    - 6637
+    - 8306
+  label: 无想无結无愛天生神章第九¶　　天炁黑色
+  type: section
+  level: 1
+hash: sha256:ca7189d8c2eae166d4af7e0db4a399e2a746c1e7922ce97c92d88e7c6e972e30

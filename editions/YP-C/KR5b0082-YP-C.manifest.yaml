@@ -1,0 +1,76 @@
+canonical_identifier: bkk:krp/KR5b0082/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5b0082/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 洞玄靈寶自然九天生神章經註
+  date: '2015-08-28 23:48:59.360110'
+  source:
+    repository: kanripo
+    path: KR5b0082
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0082_000-YP-C.yaml, hash: 'sha256:67f2340fce0ea997c7433f8f63e8247b7e9a67d2efd6ebd375f7b05bcfb3ff06'}
+  - {seq: 1, filename: KR5b0082_001-YP-C.yaml, hash: 'sha256:ac6a23c3172923546b569e1b73194ea3613bd885b923c30cdceb57d68b91e8ef'}
+  - {seq: 2, filename: KR5b0082_002-YP-C.yaml, hash: 'sha256:d7767e1821a5700b7a9f0b65bc8255ebf7c928e74222a426f391869489fae61f'}
+  - {seq: 3, filename: KR5b0082_003-YP-C.yaml, hash: 'sha256:a35fc35f63878555cd9e61615dde4e34996d722d09fcc1a4d0d2577ee92b44c3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0082_000-YP-C.markers.yaml, hash: 'sha256:b00f2f22db9b3fefc3fdb10372f060bcfff61c1c30390895d770fe1b26fb2c93'}
+  - {seq: 1, role: markers, filename: assets/KR5b0082_001-YP-C.markers.yaml, hash: 'sha256:c0c2cd64251314c41b54fc9038adeb440fc16ad9e35d003b948224fb2612fa12'}
+  - {seq: 2, role: markers, filename: assets/KR5b0082_002-YP-C.markers.yaml, hash: 'sha256:ee7556b2da314497f730ea3de40048ed3bb759e42ae10bf26a9fefb3caa76232'}
+  - {seq: 3, role: markers, filename: assets/KR5b0082_003-YP-C.markers.yaml, hash: 'sha256:8e9063a6590098e90fca751e84c4cf9d6ceb2a45f04d2c74ab86b1a0a91e0b30'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0082_YP-C_04fangji-03-0055b
+    span:
+    - body
+    - 0
+    - 372
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5b0082_YP-C_04fangji-03-0002a
+    span:
+    - body
+    - 0
+    - 6164
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5b0082_YP-C_04fangji-03-0017a
+    span:
+    - body
+    - 0
+    - 3745
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5b0082_YP-C_04fangji-03-0027a
+    span:
+    - body
+    - 0
+    - 8441
+  label: juan 003
+  type: section
+  level: 1
+hash: sha256:76f92ec5a7e4108dc9537f00cae0b1c5305267a004d777d0c4c63dfe72e190dd

@@ -1,0 +1,25 @@
+canonical_identifier: bkk:krp/KR5b0082/CK-KZ-jye/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 生神玉章上帝所以宣示好生之德也故凡寶鍊混合登晨之道靡不畢備然旨趣超邁非世常辭苟無傳注不易明也嘗聞衡嶽道士薛幽棲太淸供奉李少微西華法師成玄英所傳皆通玄究微惜未之見後之注者雖多惟王隱賢蕭眞祐浮山眞率三家發明頗詳盡然其所見各有異同觀者不能會其一而反致疑者有之若甲申運度事難考覈而乃深求隱僻驚世駭俗以此傳神者氣之靈乘陰陽擅變化周流上下四方而無間者也天行四時生百物神人大浸稽天而不溺土山焦而不𤍠乘雲御風物莫能傷皆此神也凡人神聚則生散則死九章以生神爲名其義遠矣舊注亡慮數十家高者入於渺茫下者泥於流俗每以爲歎客有自吳來者示余以華陽復所注觀其大意會粹諸說之長混而爲一引靈寶黃庭發揮丹道簡而易見若浮雲淨盡皎月當空令人瞭然噫是注也學道之指南也言辭云乎哉必有上士勤而行之如吾老子所言者矣至順壬申重午後五日體玄妙應太和眞人武當太清微妙化宫開山張守淸序
+  hash: sha256:75fcf64f467ea107b97c10cbcacd874e07aba9e938e8654654a934f9a66ec1a2
+  markers:
+  - {type: head, offset: 0, content: 九天生神玉章經注序, id: KR5b0082_CK-KZ-jye_000-h1, level: 1}
+metadata:
+  title: 洞玄靈寶自然九天生神章經註
+  edition:
+    short: CK-KZ-jye
+  date: '2015-08-28 23:48:59.360110'
+  source:
+    repository: kanripo
+    path: KR5b0082/KR5b0082_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:87401d7b8c48236bed3ab46c9df682d7cc7c39c7181999cc7f0d1ad4385614c5

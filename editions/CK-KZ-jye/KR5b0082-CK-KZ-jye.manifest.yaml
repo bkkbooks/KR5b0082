@@ -28,9 +28,9 @@ assets:
   - {seq: 3, filename: KR5b0082_003-CK-KZ-jye.yaml, hash: 'sha256:42e3248145e904710933b0d78b3b60679adbf9a38a4dadf29766e771f3e91383'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR5b0082_000-CK-KZ-jye.markers.yaml, hash: 'sha256:ce848052f6923020e806d43966b582c2d554a114b2e22810d7558423c4ff4f23'}
-  - {seq: 1, role: markers, filename: assets/KR5b0082_001-CK-KZ-jye.markers.yaml, hash: 'sha256:806903406788842f99678263a0831b20126673b9f58eda1ec7a9725c308021df'}
+  - {seq: 1, role: markers, filename: assets/KR5b0082_001-CK-KZ-jye.markers.yaml, hash: 'sha256:deaccb7556aa7ffbabde451131b743ec33acf78fadd8c2557818af53b699740d'}
   - {seq: 2, role: markers, filename: assets/KR5b0082_002-CK-KZ-jye.markers.yaml, hash: 'sha256:9efb76f0e7eceabdb5cbcd9f68f14b002dfc314633c734b5509c9afdf4d3a910'}
-  - {seq: 3, role: markers, filename: assets/KR5b0082_003-CK-KZ-jye.markers.yaml, hash: 'sha256:746f7c4ba515ced0ea46b19b37b7a0eeb3245ea5dd29b8d25751bbfc3919ca26'}
+  - {seq: 3, role: markers, filename: assets/KR5b0082_003-CK-KZ-jye.markers.yaml, hash: 'sha256:d93a9fb1699bf8e1da8559208ff1c9db94380be73295c9f088ef006f0c6cf82b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -222,4 +222,4 @@ table_of_contents:
   label: 无想无結无愛天生神章第九¶　　天炁黑色
   type: section
   level: 1
-hash: sha256:ca7189d8c2eae166d4af7e0db4a399e2a746c1e7922ce97c92d88e7c6e972e30
+hash: sha256:73639ae2b2cba37a83507d2371f689b0036f570be5baf02c2799d9545b532c4b
